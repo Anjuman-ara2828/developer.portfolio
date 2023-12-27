@@ -144,3 +144,16 @@ padding: 30px;
  .resume-content{
     display: flex;
  }
+ .resume.title{
+    color: #474747; 
+font-size: 25px;
+font-weight: 700;
+ }
+ .resume.sub-title{
+   color: #757575;
+   font-size: 20px;
+   font-weight: 600px;
+ }
+ .resume.description{
+   color: #757575;
+ }
