@@ -143,6 +143,14 @@ padding: 30px;
  /* Resume Styles */
  .resume-content{
     display: flex;
+    gap: 24px;
+ }
+ .resume-item{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #474747;
+    margin-bottom: 10px;
+
  }
  .resume.title{
     color: #474747; 
