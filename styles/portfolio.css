@@ -141,3 +141,6 @@ padding: 30px;
  }
 
  /* Resume Styles */
+ .resume-content{
+    display: flex;
+ }
