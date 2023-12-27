@@ -150,7 +150,10 @@ padding: 30px;
     margin-bottom: 30px;
     color: #474747;
     margin-bottom: 10px;
-
+ }
+ .resume-button{
+    margin-top: 50px;
+    text-align: center;
  }
  .resume.title{
     color: #474747; 
