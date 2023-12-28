@@ -9,13 +9,32 @@
 }
 .btn-primary{ 
     color:  #FFF;
-    font-size: 20px;
+    font-size: 17px;
+    font-weight: 700;
     border: 0;
     padding: 18px 35px;
     
     height: 64px;
     border-radius: 5px;
     background-color: #FD6E0A;
+    width: 200px;
+
+}
+.btn-secondary{
+   color: #FD6E0A;
+   background-color: #FFF;
+   width: 160px;
+   height: 64px;
+   border-radius: 5px;
+   border: 1px solid #FD6E0A;
+   margin-left: 30px;
+   font-size: 20px;
+
+ font-weight: 700;
+
+}
+.d-flex{
+   display: flex;
 
 }
 /* header and navigation styles */
