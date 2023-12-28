@@ -170,6 +170,12 @@ font-weight: 700;
  }
 
  /* Contact Styles */
+ .contact{
+    display: flex;
+    gap: 117px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+ }
  .contact .section-title{
     text-align: left;
  }
