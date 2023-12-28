@@ -168,3 +168,8 @@ font-weight: 700;
  .resume.description{
    color: #757575;
  }
+
+ /* Contact Styles */
+ .contact .section-title{
+    text-align: left;
+ }
